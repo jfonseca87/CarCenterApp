@@ -1,0 +1,32 @@
+<div class="container">
+  <div class="row">
+    <button class="btn btn-primary">Agregar</button>
+  </div>
+  <div class="row">
+    <table class="table">
+      <thead>
+        <tr>
+          <th>Nombres</th>
+          <th>Apellidos</th>
+          <th>Tipo Documento</th>
+          <th>No. Documento</th>
+          <th>Celular</th>
+          <th>Email</th>
+          <th>Tipo Cliente</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let cliente of clientes">
+          <td>{{cliente.primerNombre}} {{cliente.segundoNombre}}</td>
+          <td>{{cliente.primerApellido}} {{cliente.segundoApellido}}</td>
+          <td>{{cliente.tipoDocumento}}</td>
+          <td>{{cliente.numeroDocumento}}</td>
+          <td>{{cliente.celular}}</td>
+          <td>{{cliente.correoElectronico}}</td>
+          <td>{{cliente.tipoCliente}}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+</div>
