@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CarCenterApp
+/CarCenter.API/bin/Debug/net5.0
+/CarCenter.API/obj
+/CarCenter.Domain/bin/Debug/netcoreapp3.1
+/CarCenter.Repository/bin/Debug/netcoreapp3.1
+/CarCenter.Repository/obj
+/CarCenter.Utils/bin/Debug/netcoreapp3.1
+/CarCenter.Utils/obj
+/CarCenterApp.Services/bin/Debug/netcoreapp3.1
+/CarCenterApp.Services/obj
+/CarCenter.App/node_modules

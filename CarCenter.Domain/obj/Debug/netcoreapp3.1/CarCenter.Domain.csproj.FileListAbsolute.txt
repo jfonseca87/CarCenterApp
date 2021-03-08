@@ -1,0 +1,9 @@
+C:\Users\JORGE\source\repos\CarCenterApp\CarCenter.Domain\bin\Debug\netcoreapp3.1\CarCenter.Domain.deps.json
+C:\Users\JORGE\source\repos\CarCenterApp\CarCenter.Domain\bin\Debug\netcoreapp3.1\CarCenter.Domain.dll
+C:\Users\JORGE\source\repos\CarCenterApp\CarCenter.Domain\bin\Debug\netcoreapp3.1\CarCenter.Domain.pdb
+C:\Users\JORGE\source\repos\CarCenterApp\CarCenter.Domain\obj\Debug\netcoreapp3.1\CarCenter.Domain.csprojAssemblyReference.cache
+C:\Users\JORGE\source\repos\CarCenterApp\CarCenter.Domain\obj\Debug\netcoreapp3.1\CarCenter.Domain.AssemblyInfoInputs.cache
+C:\Users\JORGE\source\repos\CarCenterApp\CarCenter.Domain\obj\Debug\netcoreapp3.1\CarCenter.Domain.AssemblyInfo.cs
+C:\Users\JORGE\source\repos\CarCenterApp\CarCenter.Domain\obj\Debug\netcoreapp3.1\CarCenter.Domain.csproj.CoreCompileInputs.cache
+C:\Users\JORGE\source\repos\CarCenterApp\CarCenter.Domain\obj\Debug\netcoreapp3.1\CarCenter.Domain.dll
+C:\Users\JORGE\source\repos\CarCenterApp\CarCenter.Domain\obj\Debug\netcoreapp3.1\CarCenter.Domain.pdb
